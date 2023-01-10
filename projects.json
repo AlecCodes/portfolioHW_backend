@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1 - Mars Weather App",
+      "live": "project1-aleccodes.vercel.app",
+      "git": "https://github.com/AlecCodes/Project1",
+      "image": "https://i.imgur.com/5xXTl3a.png"
+    },
+    {
+      "name": "project2 - Customer Relationship manager",
+      "live": "https://crm-53cf.onrender.com/",
+      "git": "https://github.com/AlecCodes/Project2---CRM-",
+      "image": "https://i.imgur.com/EcH5Xz4.png"
+    }
+  ]
